@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">problemstatement</string>
+    <string name="details">Details</string>
+    <string name="name">Name</string>
+    <string name="number">phone number</string>
+    <string name="pax">Pax</string>
+    <string name="smoking">Smoking</string>
+    <string name="reserve">Reserve</string>
+    <string name="reset">reset</string>
+</resources>
